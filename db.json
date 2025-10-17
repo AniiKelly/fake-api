@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "urlImage": "https://img.freepik.com/vetores-premium/retrato-de-homem-de-moda-com-barba-de-ferradura-estilo-avatar-de-forma-quadrada-de-pessoa-com-corte-de-cabelo-moderno-vista-lateral-de-bigode-perfil-de-rosto-masculino-com-bigode-ilustracao-vetorial-isolada-plana_633472-7381.jpg?semt=ais_hybrid&w=740",
+      "nome": "Ana Kelly",
+      "especialidade": "Enfermeira",
+      "cidade": "Limoeiro",
+      "contato" "(82) 999999999"
+    },
+    {
+      "urlImage": "https://img.freepik.com/fotos-premium/foto-de-mulher-de-cabelo-vermelho-usando-oculos_1110519-22151.jpg?semt=ais_hybrid&w=740&q=80",
+      "nome": "Laura Isabelle",
+      "especialidade": "Cardiologista",
+      "cidade": "Junqueiro",
+      "contato" "(82) 888888888"
+    },
+    {
+      "urlImage": "https://img.freepik.com/vetores-premium/pessoa-de-negocios-retrato-de-vista-lateral-homem-adulto-com-oculos-corte-de-cabelo-elegante-se-alegrar-profile-de-usuario-de-avatar-de-professor-com-emocoes-felizes-rosto-sorridente-ilustracao-vetorial-isolada-plana-em-fundo-branco_633472-4934.jpg?semt=ais_hybrid&w=740&q=80",
+      "nome": "Maria Luisa",
+      "especialidade": "Psicóloga",
+      "cidade": "Girau",
+      "contato" "(82) 777777777"
+    },
+  ],
+}
